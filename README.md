@@ -62,7 +62,7 @@ explained on the course syllabus, the final reports of this score will also
 factor in whether or not the entire team of students completed, in a timely
 fashion, a high-quality project that meets all of the stated requirements.
 - **Final Grade**: This score is a percentage out of 100%. When this score is
-part of an interim report is may represent an over-estimate of a student's final
+part of an interim report it may represent an over-estimate of a student's final
 grade because of the fact that it incorporates other over-estimates in one of
 its constituent scores. This score weights the constituent scores according to
 the percentages that are provided in the table in this document and in the
