@@ -51,8 +51,13 @@ scores consider only those assessments recorded up to the week prior to the one
 at which the overall assessment was submitted.
 - **Technical Development**: This score is a composite of an individual
 student's score for technical development and the overall score that the team
-has earned for technical development articles published on the course web
-site. An individual student's work contributes to 70% of this score and the
-overall team score contributes to the remaining 30% of this score. Both of these
-scores consider only those assessments recorded up to the week prior to the one
-at which the overall assessment was submitted.
+has earned for technical development articles published on the course web site.
+An individual student's work contributes to 70% of this score and the overall
+team score contributes to the remaining 30% of this score. Both of these scores
+consider only those assessments recorded up to the week prior to the one at
+which the overall assessment was submitted.
+- **Project Development**: All interim reports of this score represent an
+individual's contribution to the long-term software engineering projects. As
+explained on the course syllabus, the final reports of this score will also
+factor in whether or not the entire team of students completed, in a timely
+fashion, a high-quality project that meets all of the stated requirements.
