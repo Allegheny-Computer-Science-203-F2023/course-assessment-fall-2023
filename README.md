@@ -24,7 +24,6 @@ change the assigned percentages during the academic semester.
 | Technical Development    |  15%       |
 | Project Development      |  40%       |
 
-
 Here are some additional details about the recording and reporting of the course
 assessments:
 
@@ -46,6 +45,13 @@ over-estimate of the final grade that a student will earn in this category.
 - **Professional Development**: This score is a composite of an individual
 student's score for professional development and the overall score that the team
 has earned for professional development articles published on the course web
+site. An individual student's work contributes to 70% of this score and the
+overall team score contributes to the remaining 30% of this score. Both of these
+scores consider only those assessments recorded up to the week prior to the one
+at which the overall assessment was submitted.
+- **Technical Development**: This score is a composite of an individual
+student's score for technical development and the overall score that the team
+has earned for technical development articles published on the course web
 site. An individual student's work contributes to 70% of this score and the
 overall team score contributes to the remaining 30% of this score. Both of these
 scores consider only those assessments recorded up to the week prior to the one
