@@ -39,4 +39,14 @@ category.
 the second midterm examination, it assumes that a student earned a perfect score
 on the not-yet-completed midterm examination. This means that this score may be
 an over-estimate of the final grade that a student will earn in this category.
-
+- **Final Examination**: When this score is reported before the completion of
+the final examination, it assumes that a student earned a perfect score on the
+not-yet-completed final examination. This means that this score may be an
+over-estimate of the final grade that a student will earn in this category.
+- **Professional Development**: This score is a composite of an individual
+student's score for professional development and the overall score that the team
+has earned for professional development articles published on the course web
+site. An individual student's work contributes to 70% of this score and the
+overall team score contributes to the remaining 30% of this score. Both of these
+scores consider only those assessments recorded up to the week prior to the one
+at which the overall assessment was submitted.
